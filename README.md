@@ -50,4 +50,4 @@ The game is developed using the following tool:
 
 To run the game on your computer, follow this step:
 * Download the .exe file
-* Go to the link: https://github.com/OnionSential/ConsoleCatGame-0.2/blob/main/ConsoleCat-0.2.exe
+* Go to the link: https://github.com/OnionSential/ENG-ConsoleCatGame-0.2/blob/main/ENG-ConsoleCat-0.2.exe
